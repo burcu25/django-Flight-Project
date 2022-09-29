@@ -48,7 +48,9 @@ INSTALLED_APPS = [
     # 'debug_toolbar',
 
     #my apps:
+    'flight',
     'users',
+    
 ]
 
 MIDDLEWARE = [
